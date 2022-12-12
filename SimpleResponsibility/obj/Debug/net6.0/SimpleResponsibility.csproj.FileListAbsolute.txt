@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SimpleResponsibility\bin\Debug\net6.0\SimpleResponsibility.exe
+C:\Users\User\source\repos\SimpleResponsibility\bin\Debug\net6.0\SimpleResponsibility.deps.json
+C:\Users\User\source\repos\SimpleResponsibility\bin\Debug\net6.0\SimpleResponsibility.runtimeconfig.json
+C:\Users\User\source\repos\SimpleResponsibility\bin\Debug\net6.0\SimpleResponsibility.dll
+C:\Users\User\source\repos\SimpleResponsibility\bin\Debug\net6.0\SimpleResponsibility.pdb
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.AssemblyInfo.cs
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.dll
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\refint\SimpleResponsibility.dll
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.pdb
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\SimpleResponsibility.genruntimeconfig.cache
+C:\Users\User\source\repos\SimpleResponsibility\obj\Debug\net6.0\ref\SimpleResponsibility.dll
